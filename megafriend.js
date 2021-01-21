@@ -1,4 +1,4 @@
-function megaFriend()
+function megaFriend("jojo","pyet","rango","toky");
 {
     
 var friendsName = ["jojo","pyet","rango","toky"];
